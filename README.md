@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/arXiv-2402.03559-red.svg" alt="arXiv">
 </a>
 <a href="https://neurips.cc/virtual/2025/poster/117807" target="_blank">
-  <img src="https://img.shields.io/badge/NeurIPS%20Poster-2024-blue.svg" alt="NeurIPS Poster">
+  <img src="https://img.shields.io/badge/NeurIPS%20Poster-2025-blue.svg" alt="NeurIPS Poster">
 </a>
 <a href="">
     <img src="https://img.shields.io/badge/Version-v1.0.0-orange.svg" alt="Version">
