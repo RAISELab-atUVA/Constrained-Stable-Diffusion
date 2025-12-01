@@ -46,7 +46,7 @@ Contains the core **Stable Diffusion** library, mainly adapted from Hugging Face
 ```
 
 
-### 2. `model_training/`
+### 2. `models_training/`
 
 Includes scripts necessary for training **Stable Diffusion** models:
 
