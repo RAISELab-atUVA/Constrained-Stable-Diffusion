@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2502.05625" target="_blank">
-  <img src="https://img.shields.io/badge/arXiv-2402.03559-red.svg" alt="arXiv">
+  <img src="https://img.shields.io/badge/arXiv-2502.05625-red.svg" alt="arXiv">
 </a>
 <a href="https://neurips.cc/virtual/2025/poster/117807" target="_blank">
   <img src="https://img.shields.io/badge/NeurIPS%20Poster-2025-blue.svg" alt="NeurIPS Poster">
